@@ -25,5 +25,5 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/tidmid2)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tidmid2&theme=dark)](https://github.com/tidmid2/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tidmid2&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tidmid2&theme=dark&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tidmid2&layout=compact&theme=vision-friendly-dark)](https://github.com/tidmid2/github-readme-stats)
