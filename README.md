@@ -6,16 +6,16 @@
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-![ReactJS](https://img.shields.io/badge/-ReactJS-090909?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=nodejs)
-![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![C++](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=node.js)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=PostgreSQL)
 ![Firebird](https://img.shields.io/badge/-Firebird-090909?style=for-the-badge&logo=Firebird)
-![MySql](https://img.shields.io/badge/-MySql-090909?style=for-the-badge&logo=MySql)
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL)
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=MySql)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
 
 
 ### Socials:
