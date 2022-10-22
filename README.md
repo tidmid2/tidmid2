@@ -7,7 +7,7 @@
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![C++](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![C++](https://img.shields.io/badge/CPP-00599C?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=node.js)
