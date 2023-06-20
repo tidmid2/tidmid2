@@ -20,9 +20,7 @@
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/tidpit2)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/elewlian)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/tidmid2)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/tidmid2)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tidmid2&theme=dark)](https://github.com/tidmid2/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=tidmid2&theme=dark&hide_border=true)](https://git.io/streak-stats)
