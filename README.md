@@ -22,6 +22,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/tidpit2)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/tidmid2)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tidmid2&theme=dark)](https://github.com/tidmid2/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=tidmid2&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tidmid2&layout=compact&theme=vision-friendly-dark)](https://github.com/tidmid2/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tidmid2&show_icons=true&theme=tokyonight)](https://github.com/tidmid2/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tidmid2&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tidmid2&layout=compact&theme=tokyonight)](https://github.com/tidmid2/github-readme-stats)
